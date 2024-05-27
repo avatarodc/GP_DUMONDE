@@ -1,0 +1,156 @@
+[
+    {
+        "numero": "CGN315",
+        "poids_max": "25",
+        "prix": "51",
+        "depart": "67, Rue des Plantes, Quartier du Petit-Montrouge, Paris 14e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75014, France",
+        "arrivee": "11, Rue Quinault, Quartier Necker, Paris 15e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75015, France",
+        "distance": "2.52",
+        "type": "routiere",
+        "statut": "en-attente",
+        "etat": "ferme"
+    },
+    {
+        "numero": "CGN875",
+        "poids_max": "4",
+        "prix": "7",
+        "depart": "4, Place Georges Besse, Rives de Seine, Boulogne-Billancourt, Hauts-de-Seine, \u00cele-de-France, France m\u00e9tropolitaine, 92100, France",
+        "arrivee": "Gare Montparnasse - Vaugirard, Boulevard de Vaugirard, Quartier Necker, Paris 15e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75015, France",
+        "distance": "6.53",
+        "type": "aerienne",
+        "statut": "en-attente",
+        "etat": "ouvert"
+    },
+    {
+        "numero": "CGN13",
+        "poids_max": "33",
+        "prix": "8",
+        "depart": "Domaine national de Saint-Cloud, 1, Avenue de la Grille d'Honneur, Les Bureaux de la Colline, Saint-Cloud, Nanterre, Hauts-de-Seine, \u00cele-de-France, France m\u00e9tropolitaine, 92210, France",
+        "arrivee": "137, Rue de la Convention, Quartier Saint-Lambert, Paris 15e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75015, France",
+        "distance": "7.30",
+        "type": "aerienne",
+        "statut": "termine",
+        "etat": "ouvert"
+    },
+    {
+        "numero": "CGN356",
+        "poids_max": "97",
+        "prix": "49",
+        "depart": "Parchamp - Albert Kahn, Boulogne-Billancourt, Hauts-de-Seine, \u00cele-de-France, France m\u00e9tropolitaine, 92100, France",
+        "arrivee": "Groupe Scolaire Olivier de Serres, Rue de la Sa\u00efda, Quartier Saint-Lambert, Paris 15e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75015, France",
+        "distance": "4.32",
+        "type": "routiere",
+        "statut": "termine",
+        "etat": "ouvert"
+    },
+    {
+        "numero": "CGN731",
+        "poids_max": "97",
+        "prix": "64",
+        "depart": "Elia, Sector de S\u00e3o Domingos, Cacheu (r\u00e9gion), North, Guin\u00e9e-Bissau",
+        "arrivee": "Dabane Gu\u00e9ladio, Communaut\u00e9 rurale de Ndiaffate, Arrondissement de Ndi\u00e9dieng, D\u00e9partement de Kaolack, R\u00e9gion de Kaolack, S\u00e9n\u00e9gal",
+        "distance": "197.49",
+        "type": "aerienne",
+        "statut": "termine",
+        "etat": "ouvert"
+    },
+    {
+        "numero": "CGN407",
+        "poids_max": "88",
+        "prix": "11",
+        "depart": "Communaut\u00e9 rurale de Ndiay\u00e8ne Peindao, Arrondissement de Thill\u00e9 Boubacar, D\u00e9partement de Podor, Saint-Louis, S\u00e9n\u00e9gal",
+        "arrivee": "Al Qadima, Kiffa, Assaba, Mauritanie",
+        "distance": "375.41",
+        "type": "aerienne",
+        "statut": "termine",
+        "etat": "ouvert"
+    },
+    {
+        "numero": "CGN746",
+        "poids_max": "8",
+        "prix": "71",
+        "depart": "R12.1, Damantan, Communaut\u00e9 rurale de Dialacoto, Arrondissement de Missirah, D\u00e9partement de Tambacounda, R\u00e9gion de Tambacounda, S\u00e9n\u00e9gal",
+        "arrivee": "N 4, Diourbel, D\u00e9partement de Diourbel, Diourbel, 21600, S\u00e9n\u00e9gal",
+        "distance": "344.22",
+        "type": "routiere",
+        "statut": "en-attente",
+        "etat": "ouvert"
+    },
+    {
+        "numero": "CGN518",
+        "poids_max": "69",
+        "prix": "49",
+        "depart": "Touba Mourid, Communaut\u00e9 rurale de Nioro Alassane Tall, Arrondissement de Toubacouta, D\u00e9partement de Foundiougne, Fatick, S\u00e9n\u00e9gal",
+        "arrivee": "Timpafoulou, Communaut\u00e9 rurale de Missirah, Arrondissement de Missirah, D\u00e9partement de Tambacounda, R\u00e9gion de Tambacounda, S\u00e9n\u00e9gal",
+        "distance": "295.13",
+        "type": "aerienne",
+        "statut": "termine",
+        "etat": "ouvert"
+    },
+    {
+        "numero": "CGN155",
+        "poids_max": "62",
+        "prix": "50",
+        "depart": "Kabaline, Bougolor, Communaut\u00e9 rurale de Di\u00e9goune, Arrondissement de Tendouck, D\u00e9partement de Bignona, R\u00e9gion de Ziguinchor, S\u00e9n\u00e9gal",
+        "arrivee": "Gourel Niakarou, Communaut\u00e9 rurale de Sinthiou Bocar Ali, Arrondissement de Koulor, D\u00e9partement de Goudiry, R\u00e9gion de Tambacounda, S\u00e9n\u00e9gal",
+        "distance": "362.20",
+        "type": "maritime",
+        "statut": "termine",
+        "etat": "ferme"
+    },
+    {
+        "numero": "CGN920",
+        "poids_max": "73",
+        "prix": "4",
+        "depart": "Dator Kouta, Communaut\u00e9 rurale de Ndiamalathiel, Arrondissement de Boghal, D\u00e9partement de Bounkiling, R\u00e9gion de S\u00e9dhiou, S\u00e9n\u00e9gal",
+        "arrivee": "Communaut\u00e9 rurale de Tomboroncoto, Arrondissement de Bandafassi, D\u00e9partement de K\u00e9dougou, R\u00e9gion de K\u00e9dougou, S\u00e9n\u00e9gal",
+        "distance": "346.58",
+        "type": "maritime",
+        "statut": "en-attente",
+        "etat": "ouvert"
+    },
+    {
+        "numero": "CGN615",
+        "poids_max": "63",
+        "prix": "14",
+        "depart": "Mankono Ba, Communaut\u00e9 rurale de Oudoucar, Arrondissement de Diend\u00e9, D\u00e9partement de S\u00e9dhiou, R\u00e9gion de S\u00e9dhiou, S\u00e9n\u00e9gal",
+        "arrivee": "Communaut\u00e9 rurale de Tomboroncoto, Arrondissement de Bandafassi, D\u00e9partement de K\u00e9dougou, R\u00e9gion de K\u00e9dougou, S\u00e9n\u00e9gal",
+        "distance": "293.21",
+        "type": "aerienne",
+        "statut": "en-attente",
+        "etat": "ouvert"
+    },
+    {
+        "numero": "CGN935",
+        "poids_max": "75",
+        "prix": "5",
+        "depart": "Keur Madaro, Communaut\u00e9 rurale de Notto, Arrondissement de Notto, D\u00e9partement de Thi\u00e8s, Thi\u00e8s, S\u00e9n\u00e9gal",
+        "arrivee": "Guidimaka, Mauritanie",
+        "distance": "530.36",
+        "type": "maritime",
+        "statut": "en-attente",
+        "etat": "ouvert"
+    },
+    {
+        "numero": "CGN202",
+        "poids_max": "12",
+        "prix": "1234",
+        "depart": "S\u00e9n\u00e9gal",
+        "arrivee": "Gorgol, Mauritanie",
+        "distance": "531.36",
+        "type": "maritime",
+        "statut": "en-attente",
+        "etat": "ouvert"
+    },
+    {
+        "numero": "CGN392",
+        "poids_max": "12",
+        "prix": "12",
+        "depart": "Bokolako, Communaut\u00e9 rurale de Diank\u00e9 Makha, Arrondissement de Diank\u00e9 Makha, D\u00e9partement de Goudiry, R\u00e9gion de Tambacounda, S\u00e9n\u00e9gal",
+        "arrivee": "Tyanguel-bori, Pr\u00e9fecture de Lelouma, R\u00e9gion de Lab\u00e9, Guin\u00e9e",
+        "distance": "212.29",
+        "type": "maritime",
+        "statut": "en-attente",
+        "etat": "ouvert"
+    }
+]
